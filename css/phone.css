@@ -1,0 +1,41 @@
+header img {
+    margin: auto;
+}
+header ul {
+    display: none;
+}
+.landing .intro-text h1 {
+    font-size: 2.4em;
+}
+.we-done .we-done-content ul {
+    flex-wrap: wrap;
+}
+.we-done .we-done-content ul li {
+    margin-bottom: 20px;
+}
+.we-done .pics > div {
+    width: 100%;
+}
+.about-us .container .about-us-content h3 {
+    line-height: 2;
+}
+.about-us .container .about-us-content h3 span {
+    padding: 0;
+}
+.about-us .container .about-us-content p {
+    margin-bottom: 10px;
+}
+.our-blog .our-blog-content div {
+    width: 100%;
+}
+.contact .container form .one,
+.contact .container form .two {
+    width: 100%;
+}
+.contact .container .link-icon {
+    flex-direction: column;
+    align-items: center;
+}
+.contact .container .link-icon > div {
+    margin-bottom: 20px;
+}
